@@ -4,7 +4,7 @@
 
 FLO aims to divide its customers into segments and establish marketing strategies according to these segments. For this purpose, customer behaviors will be defined, and groups will be formed based on the clustering of these behaviors.
 
-## Variables:
+## Variables: 
 
 #### Total Features: 11 - Total Row: 19.945
 
