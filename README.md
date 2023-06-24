@@ -10,7 +10,7 @@ FLO aims to divide its customers into segments and establish marketing strategie
 
 #### CSV File Size: 2.60 MB
 
-* **master_id :** Unique Customer Number
+* **master_id :** Unique Customer Numbers
 * **order_channel :** Which channel of the shopping platform is used (Android, IOS, Desktop, Mobile)
 * **last_order_channel :** The channel where the most recent purchase was made
 * **first_order_date :** Date of the customer's first purchase
